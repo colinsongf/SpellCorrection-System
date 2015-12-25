@@ -1,0 +1,3 @@
+0=/home/fiona/PROJECT@WANGDAO/c++/SpellCorrection/Data/Dict_Source/EN/source1.txt
+1=/home/fiona/PROJECT@WANGDAO/c++/SpellCorrection/Data/Dict_Source/EN/source2.txt
+2=/home/fiona/PROJECT@WANGDAO/c++/SpellCorrection/Data/Dict_Source/EN/source3.txt

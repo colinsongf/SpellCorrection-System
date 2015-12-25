@@ -1,0 +1,5 @@
+ip=192.168.200.128
+port=6666
+dict_en=/home/fiona/PROJECT@WANGDAO/c++/SpellCorrection/Data/dict_en.dat
+dict_ch=/home/fiona/PROJECT@WANGDAO/c++/SpellCorrection/Data/dict_ch.dat
+cache=/home/fiona/PROJECT@WANGDAO/c++/SpellCorrection/Data/cache.dat
